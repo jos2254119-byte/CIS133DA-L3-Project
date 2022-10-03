@@ -47,15 +47,12 @@ This is an example of what the project should look like before you submit your p
 
 ## Submit the Project
 Before you submit your project:
-1. Make sure that you have validated your HTML and CSS code. If any errors were found within the validators, be sure to fix those errors before you submit your assignment.
-
-   > **TIP:** The validator extensions that you installed during the course introduction will provide details within the Problems tab as you code, which you can open from the `View` menu and then selecting the `Problems` option.
-2. Save your files and apply any final commits to your work.
-3. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
-4. Verify that all files appear on GitHub.
-   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS233DA-in-v8](https://github.com/rsc-cis233da-in-v8). You can bookmark the page for future reference. 
-5. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
-6. In the comment field, 
+1. Save your files and apply any final commits to your work.
+0. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
+0. Verify that all files appear on GitHub.
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-computer-technology](https://github.com/rsc-computer-technology). You can bookmark the page for future reference. 
+0. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
+0. In the comment field, 
    - Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
    - Put a note to your instructor that the assignment is ready to grade.
-7. Click on the `Comment` button to finalize and submit your assignment for grading.
+0. Click on the `Comment` button to finalize and submit your assignment for grading.
