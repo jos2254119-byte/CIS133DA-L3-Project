@@ -27,7 +27,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
 0. Using the appropriate tags, add the following content to your web page:
    
    - Create a **first-level heading** with the following text: Basic Template
-   - Create a **paragraph** under this heading with dummy text (see <a title="Working with Paragraphs" href="https://riosalado.coursearc.com/index.php?cID=14668" target="_blank" rel="noopener">Working with Paragraphs</a>) as the text within the paragraph. 
+   - Create a **paragraph** under this heading with dummy text (see <a title="Working with Paragraphs" href="https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/working-with-paragraphs" target="_blank" rel="noopener">Working with Paragraphs</a>) as the text within the paragraph. 
    - Create a **second-level heading** with your first and last name as the text.
    - **Add at least one paragraph** under this second-level heading with a brief intro about yourself so your instructor can get to know you a bit more. You can include details about you educational goals, what you hope to get out of the course, etc. 
    - Create **another paragraph** after your bio paragraph(s) with general contact information with each contact method **on a separate line** within a single paragraph. Include:
