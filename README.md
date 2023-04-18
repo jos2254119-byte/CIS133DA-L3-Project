@@ -16,8 +16,8 @@ In this lesson, use what you have learned so far to create a basic web page intr
 
 ## Create A Basic Web Page
 
-1. Create a new blank HTML5 document.
-0. Save the file to your course lesson folder as **template.html**.
+1. Create a new blank HTML5 document. If you are using VS Code, click the **New File** button in the Explorer pane next to the name of the assignment.
+0. Save the file to your course lesson folder as **template.html**. The file should be saved in the default user directory for GitHub. For example, on a Windows computer it should be saved to c:/users/JaneDoe/github-classroom/rsc-cis133DA-in-v12
 0. Using the appropriate tags, create **the four basic HTML elements**.
 0. Insert **a multi-line HTML comment** within the head element of the web page with the following information: Course, Section, and Lesson Number and fill in the information for your course and lesson. For example: 
    > Course: CIS133DA<br>Section: 99999<br>Lesson: 3
