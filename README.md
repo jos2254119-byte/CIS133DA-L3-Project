@@ -46,13 +46,10 @@ This is an example of what the project should look like before you submit your p
 <br>
 
 ## Submit the Project
-Before you submit your project:
-1. Save the file.
-4. Push (i.e., sync) the repo on your computer with GitHub to ensure all files are uploaded for your instructor to see.
+There are several steps to submit your project. Be sure to follow these steps carefully.
+1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+4. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
 5. Verify that all files appear on GitHub.
-   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12](https://github.com/rsc-cis133DA-in-v12). You can bookmark the page for future reference. 
-6. Open the Pull Requests tab within GitHub (or using the GitHub Extension within VS Code).
-7. In the comment field, 
-   - Type in your instructor's username with an `@` before. See the course announcements for their username to use. 
-   - Put a note to your instructor that the assignment is ready to grade.
-8. Click on the `Comment` button to finalize and submit your assignment for grading.
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment inviations for. It is recommended that you bookmark this page for future reference. 
+6. Right-click the link to your repository and select **Copy Link Address**.
+7. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box. This will let your instructor know that the assignment is ready to be graded.
