@@ -50,6 +50,6 @@ There are several steps to submit your project. Be sure to follow these steps ca
 1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
 4. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
 5. Verify that all files appear on GitHub.
-   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - <a href="https://github.com/rsc-cis133DA-in-v12" target="_blank">RSC-CIS133DA-IN-V12</a> Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment inviations for. It is recommended that you bookmark this page for future reference. 
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12) Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. 
 6. Right-click the link to your repository and select **Copy Link Address**.
 7. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box. This will let your instructor know that the assignment is ready to be graded.
