@@ -46,10 +46,14 @@ This is an example of what the project should look like before you submit your p
 <br>
 
 ## Submit the Project
-There are several steps to submit your project. Be sure to follow these steps carefully.
+There are several steps to submit your project. You will be using the Pull Request to submit a comment through GitHub, and also submitting the URL to your Repo through RioLearn. Follow these steps carefully.
+
+   > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
 1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-4. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
-5. Verify that all files appear on GitHub.
-   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12) Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. 
-6. Right-click the link to your repository and select **Copy Link Address**.
-7. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box. This will let your instructor know that the assignment is ready to be graded.
+2. Verify that all files appear on GitHub.
+
+   > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
+3. Submit the project through **GitHub** by opening the Pull Request that was created for you when you accepted the assignment invitation. Use the **Comment** box to let your instructor know that the assignment is complete.
+4. Right-click the link to your repository and select **Copy Link Address**.
+5. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box.
+
