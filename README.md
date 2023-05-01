@@ -24,6 +24,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
 
 0. Give the **page a title** of: {Your MEID} - Template. Replace the {Your MEID} with your actual MEID, like the following example:
    > ABC1234567 - Template
+0. **Save** your web page. **Sync** your file to GitHub and apply a **Commit** that says: `Created template with basic HTML elements`. If you need a refresher on how to Sync and Apply a commit, refer to [How to Apply a Commit and Sync your Files to GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub)
 0. Using the appropriate tags, add the following content to your web page:
    
    - Create a **first-level heading** with the following text: Basic Template
@@ -35,7 +36,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
       - The text "Email:" along with your student email address.
 0. Create **another paragraph** for the page copyright info. For the text use the following format: 
    > Copyright {YEAR} by {Your Full Name}
-
+0. **Save** your web page. **Sync** your file to GitHub and apply a **Commit** that says: `Added Content`.
 <br>
 
 ## Example Project
@@ -49,8 +50,8 @@ This is an example of what the project should look like before you submit your p
 Once you have completed your project, you need to let your instructor know that it is ready to be graded. This is done by submitting the Repo URL to the assignment in RioLearn.
 
    > **TIP:** If you need a refresher on how to submit your work, view: [Submitting Assignments & Viewing Feedback](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/submitting-assignments-and-viewing-feedback).
-1. Save the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
-2. **Sync** the changes and apply a **Commit**.
+1. Review your work and make any necessary updates. **Save** the file. You can either select **FILE>SAVE** or use the keyboard shortcut **CTRL+S**.
+2. **Sync** the changes and apply a final **Commit** that says: `Completed final review and updates before submission`.
 3. Verify that all files appear on GitHub.
 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
