@@ -42,7 +42,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
 ## Example Project
 This is an example of what the project should look like before you submit your project.
 
-![Screenshot of Index.html page](https://riosalado.coursearc.com/files/cache/ef783e3e90322efd7d2201770a334fd0_f2161.png)
+![Screenshot of Index.html page](https://raw.githubusercontent.com/rsc-cis133DA-in-v12/CourseResources/main/L3-example1.png)
 
 <br>
 
