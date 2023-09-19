@@ -64,4 +64,4 @@ Once you have completed your project, you need to let your instructor know that 
 
 ***
 
-To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
+To learn more about Git and GitHub, review the [Additional-resources.md](main/z-Additional-resources.md) file.
