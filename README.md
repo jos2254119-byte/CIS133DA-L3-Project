@@ -12,6 +12,7 @@ If you're reading this, you have successfully accepted the assignment invitation
 2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
 
    > **TIP:** Right click on the file and choose the `Open Preview` option.
+   
    > **TIP:** It is recommended that you view the `README.md` file in **Preview Mode** using **Split View**. You can use the Split View feature (under the **View** menu, **Editor Layout** options) in VS Code to display the `Readme.md` file on one side of VS Code and the files you need to edit on the other side. You can also open the `Readme.md` file in Preview mode by right clicking on the file and selecting the **Open Preview** option.
 
 3. If there are files and folders present other than this `readme.md` file, take some time to familiarize yourself with the files within the repo so you know where they are located. This will help you when asked to use them within the project directions.
