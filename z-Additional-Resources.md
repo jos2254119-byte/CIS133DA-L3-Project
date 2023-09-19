@@ -1,6 +1,4 @@
-> **NOTE1**: The directions for this assignment can be found in the [README.md](readme.md) file.
-
-> **NOTE2**: The following are extra resources to learn about Git and GitHub that was curated by an educational team at GitHub to help students as they start their journey towards developing their version control knowledge and skills.
+> **NOTE**: The following are extra resources to learn about Git and GitHub that was curated by an educational team at GitHub to help students as they start their journey towards developing their version control knowledge and skills. For specific information related to the use of GitHub within our course at Rio Salado, refer to the [GitHub information provided in the Course Introduction](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/introduction-to-git). 
 
 # :wave: The Basics of GitHub
 
