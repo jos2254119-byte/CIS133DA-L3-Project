@@ -1,13 +1,19 @@
 # Lesson 3 Project
-Within the span of this course, you will be able to develop your own web pages using the practices you learned during the lesson and following the directions below. Before you start the lesson make sure that you have completed all How-To and Practice Activities which will greatly help you with this lesson.
+At the end of each lesson, you will be completing a project that includes developing web pages using the concepts and skills covered throughout the lesson. Before you start the project, make sure that you have completed all How-To and Practice Activities within the lesson, which will greatly help you with this project.
 
-In this lesson, use what you have learned so far to create a basic web page introducing: you! We would love to learn about your educational goals, including what degree or certificate you may be taking the course for.
+In this project, you will use what you have learned so far to create a basic web page introducing: you! We would love to learn about your educational goals, including what degree or certificate you may be taking the course for.
 
 ## Project Prep
+If you're reading this, you have successfully accepted the assignment invitation and cloned it to your computer. (Good job!) 
+
+> If you need a refresher on any steps related to Accepting invitations and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
+
 1. If you haven't done so already, clone the repo to your computer within your course folder.
 2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
 
    > **TIP:** Right click on the file and choose the `Open Preview` option.
+   > **TIP:** It is recommended that you view the `README.md` file in **Preview Mode** using **Split View**. You can use the Split View feature (under the **View** menu, **Editor Layout** options) in VS Code to display the `Readme.md` file on one side of VS Code and the files you need to edit on the other side. You can also open the `Readme.md` file in Preview mode by right clicking on the file and selecting the **Open Preview** option.
+
 3. If there are files and folders present other than this `readme.md` file, take some time to familiarize yourself with the files within the repo so you know where they are located. This will help you when asked to use them within the project directions.
 
    > **TIP:** Before beginning any work on the project, read through all the steps to understand what you will be doing.
@@ -17,7 +23,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
 ## Create A Basic Web Page
 
 1. Create a new blank HTML5 document. If you are using VS Code, click the **New File** button in the Explorer pane next to the name of the assignment.
-0. Save the file to your course lesson folder as **template.html**. The file should be saved in the default user directory for GitHub. For example, on a Windows computer it should be saved to c:/users/JaneDoe/github-classroom/rsc-cis133DA-in-v12
+0. Save the file as **template.html**. The file will be saved in the default user directory for GitHub. For example, on a Windows computer it should be saved to c:/users/JaneDoe/github-classroom/rsc-cis133DA-in-v12/projectRepo. **NOTE** The file will be saved into the folder for the specific project repo you are working on. Do not save the file to a different folder. If you do that, the file will not sync to your GitHub account when you Sync and Commit your work. 
 0. Using the appropriate tags, create **the four basic HTML elements**.
 0. Insert **a multi-line HTML comment** within the head element of the web page with the following information: Course, Section, and Lesson Number and fill in the information for your course and lesson. For example: 
    > Course: CIS133DA<br>Section: 99999<br>Lesson: 3
@@ -30,7 +36,7 @@ In this lesson, use what you have learned so far to create a basic web page intr
    - Create a **first-level heading** with the following text: Basic Template
    - Create a **paragraph** under this heading with dummy text (see <a title="Working with Paragraphs" href="https://riosalado.coursearc.com/content/cis133da-in-v12/lesson-3-introduction-html/working-with-paragraphs" target="_blank" rel="noopener">Working with Paragraphs</a>) as the text within the paragraph. 
    - Create a **second-level heading** with your first and last name as the text.
-   - **Add at least one paragraph** under this second-level heading with a brief intro about yourself so your instructor can get to know you a bit more. You can include details about you educational goals, what you hope to get out of the course, etc. 
+   - **Add at least one paragraph** under this second-level heading with a brief intro about yourself so your instructor can get to know you a bit more. You can include details about your educational goals, what you hope to get out of the course, etc. 
    - Create **another paragraph** after your bio paragraph(s) with general contact information with each contact method **on a separate line** within a single paragraph. Include:
       - The text "Phone:" along with a fake phone number.
       - The text "Email:" along with your student email address.
