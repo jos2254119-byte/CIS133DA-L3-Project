@@ -61,3 +61,7 @@ Once you have completed your project, you need to let your instructor know that 
    > **TIP:** You can view any of your repos by going to the GitHub organization for the course - [RSC-CIS133DA-IN-V12 Organization](https://github.com/rsc-cis133DA-in-v12). Once you are viewing the class organization, you should see all of the Repos that you have accepted assignment invitations for. It is recommended that you bookmark this page for future reference. Push (i.e., sync) the files on your computer with GitHub to ensure all files are uploaded to GitHub for your instructor to view.
 4. Right-click the link to your repository and select **Copy Link Address**.
 5. Go to the Assessing Your Learning page in your RioLearn lesson, and click the link to submit the assignment. Paste the link to your repo in the assignment submission box.
+
+***
+
+To learn more about Git and GitHub, review the [Additional-resources.md](z-Additional-resources.md) file.
