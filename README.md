@@ -8,7 +8,7 @@ If you're reading this, you have successfully accepted the assignment invitation
 
 > If you need a refresher on any steps related to Accepting invitations and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
 
-1. If you haven't done so already, clone the repo to your computer within your course folder.
+1. If you haven't done so already, clone the repo to your computer.
 2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
    
    > **TIP:** It is recommended that you view the `README.md` file in **Preview Mode** using **Split View**. You can use the Split View feature (under the **View** menu, **Editor Layout** options) in VS Code to display the `Readme.md` file on one side of VS Code and the files you need to edit on the other side. You can also open the `Readme.md` file in Preview mode by right clicking on the file and selecting the **Open Preview** option.
