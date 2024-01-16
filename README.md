@@ -6,7 +6,7 @@ In this project, you will use what you have learned so far to create a basic web
 ## Project Prep
 If you're reading this, you have successfully accepted the assignment invitation and cloned it to your computer. (Good job!) 
 
-> If you need a refresher on any steps related to Accepting invitations and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
+> If you need a refresher on any steps related to Accepting invitations and cloning your repo, refer to the [How To: Clone and Open a Repo](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments#How-To-Clone-and-Open-a-Repo) tutorial.
 
 1. If you haven't done so already, clone the repo to your computer.
 2. Open the repo within VS Code. You can open this `readme.md` file within VS Code to view the project directions there. 
@@ -28,7 +28,7 @@ If you're reading this, you have successfully accepted the assignment invitation
 
 0. Give the **page a title** of: {Your MEID} - Template. Replace the {Your MEID} with your actual MEID, like the following example:
    > ABC1234567 - Template
-0. **Save** your web page. **Sync** your file to GitHub and apply a **Commit** that says: `Created template with basic HTML elements`. If you need a refresher on how to Sync and Apply a commit, refer to [How to Apply a Commit and Sync your Files to GitHub](https://riosalado.coursearc.com/content/cis-public/using-git-github-and-vs-code/working-on-activities-and-assignments#How-To-Apply-a-Commit-Sync-Your-Files-to-GitHub)
+0. **Save** your web page. **Sync** your file to GitHub and apply a **Commit** that says: `Created template with basic HTML elements`. If you need a refresher on how to Sync and Apply a commit, refer to [How to Apply a Commit and Sync your Files to GitHub](https://riosalado.coursearc.com/content/cis-public/git-github-and-vs-code/working-on-activities-and-assignments)
 0. Using the appropriate tags, add the following content to your web page:
    
    - Create a **first-level heading** with the following text: Basic Template
